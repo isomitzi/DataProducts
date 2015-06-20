@@ -1,0 +1,12 @@
+Documentation
+This app takes in the data parameters of a sample and calculates a P value for a specific type of hypothesis tests – one way or two way. 
+The parameters that the app requires are:
+- Sample size
+- Sample mean
+- Sample standard deviation
+- The null hypothesis value
+- The type of test for which the P value is calculated- right hand test, left hand test or  a two way test.
+Once all the parameters are supplied, the app calculates the t statistic for the test, the degrees of freedom and the appropriate P value for the type of test.
+Also included is a visual representation of the t distribution and a shaded area that is the P value. 
+
+Hope you like it! 
